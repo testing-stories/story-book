@@ -1,1 +1,1 @@
-# testing-stories-trust-your-test-engineer
+# Thoughts and observations about software testing
